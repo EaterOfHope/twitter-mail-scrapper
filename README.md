@@ -5,7 +5,9 @@ Avoir Node et NPM d'installé sur votre poste.
 # Installation
 
 `git clone https://github.com/automatedb/twitter-mail-scrapper.git`
+
 `cd twitter-mail-scrapper`
+
 `npm install`
 
 # Utilisation
