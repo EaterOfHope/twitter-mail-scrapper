@@ -1,0 +1,16 @@
+{
+  "name": "mailhacking",
+  "version": "1.0.0",
+  "description": "Scraping twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas MORICET <nicolas.moricet@free.fr>",
+  "license": "ISC",
+  "dependencies": {
+    "csv-db": "^0.1.0",
+    "node-tweet-stream": "^2.0.1",
+    "underscore": "^1.8.3"
+  }
+}
